@@ -1,0 +1,10 @@
+site_name: Omkar's Python Learning Journey
+theme:
+  name: material
+  features:
+    - navigation.instant
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/omkar-dixit
+  generator: false  # This removes the "Built with MkDocs" footer
